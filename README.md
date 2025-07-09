@@ -21,6 +21,7 @@ A modular set of Jupyter notebooks demonstrating two LangChain‑powered AI agen
 - **Seamless execution**: Judge0 integration for compile/run  
 - **Interactive chat loops**: Converse with your AI agent in notebook  
 - **Clear separation**: Generator vs. executor tools for reuse  
+![image](https://github.com/user-attachments/assets/6a0b0ea3-3fec-4ed5-a9ba-d6a43e7059ae)
 
 ---
 
